@@ -1,0 +1,21 @@
+{
+    "name": "skotadi",
+    "displayName": "skotadi",
+    "description": "Another dark theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "skotadi dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/skotadi dark-color-theme.json"
+            }
+        ]
+    }
+}
